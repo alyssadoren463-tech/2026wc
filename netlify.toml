@@ -11,6 +11,7 @@
 
 [build.environment]
   NODE_VERSION = "20"
+  API_KEY = "7223e593-8ff8-4489-9ef6-7b74c1dcdb45"
 
 [[headers]]
   for = "/*"
